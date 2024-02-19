@@ -35,7 +35,7 @@ var lottieAnimation = lottie.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'https://path.to/your/animation.json' // the path to the animation json
+  path: 'https://cdn.jsdelivr.net/gh/chethan9/preloader@main/lottie.json' // the path to the animation json
 });
 
 // Function to hide the overlay
